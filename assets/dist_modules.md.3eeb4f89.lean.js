@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as l,O as o}from"./chunks/framework.065d6068.js";const f=JSON.parse('{"title":"sdkset","description":"","frontmatter":{},"headers":[],"relativePath":"dist/modules.md","filePath":"dist/modules.md"}'),a={name:"dist/modules.md"},t=o("",4),r=[t];function i(d,_,c,n,m,u){return s(),l("div",null,r)}const x=e(a,[["render",i]]);export{f as __pageData,x as default};
